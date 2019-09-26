@@ -1,0 +1,22 @@
+{
+    "particles": {
+        "number": {
+            "value": 300
+        },
+        "color": {
+            "value": "#2e3131"
+        },
+        "shape": {
+            "type": "circle"
+        },
+        "opacity": {
+            "value": 0.1
+        },
+        "size": {
+            "random": true
+        },
+        "move": {
+            "speed": 1
+        }
+    }
+}
